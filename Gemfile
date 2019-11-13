@@ -19,6 +19,7 @@ gem 'bootstrap_form'
 gem 'hirb'
 gem 'jquery-rails'
 gem 'devise'
+gem 'faker'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 

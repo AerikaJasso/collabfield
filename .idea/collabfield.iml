@@ -65,6 +65,7 @@
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.7.0, rbenv: 2.3.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="factory_girl (v4.9.0, rbenv: 2.3.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="factory_girl_rails (v4.9.0, rbenv: 2.3.7) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v2.7.0, rbenv: 2.3.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.11.1, rbenv: 2.3.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, rbenv: 2.3.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="headless (v2.3.1, rbenv: 2.3.7) [gem]" level="application" />
