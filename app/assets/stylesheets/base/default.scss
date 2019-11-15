@@ -9,12 +9,10 @@ html {
 body {
   background: $backgroundColor;
   font-size: 14px;
-  font-size: 1.4rem;
 }
 
 h1 {
   font-size: 24px;
-  font-size: 2.4rem;
 }
 
 i {
@@ -31,4 +29,9 @@ a:hover, a:active, a:link, a:visited {
 
 .control-label {
   display: none;
+}
+
+.login-button, .sign-up-button {
+  background-color: $navbarColor;
+  color: white !important;
 }
